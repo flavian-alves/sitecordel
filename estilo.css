@@ -5,8 +5,6 @@
     padding: 0px;
     margin: 0px;
 }
-
-
 a{
     color: white;
     text-decoration: none;
@@ -44,7 +42,7 @@ p{
     font-family: 'Sriracha', cursive;
 }
 article{
-    margin: 0%;
+    margin: 0px;
 }
 p.comfundo{
     text-shadow: 1px 1px 1px black;
